@@ -9,7 +9,7 @@ const int WINDOW_HEIGHT = 600;
 
 // Target circle parameters
 const int TARGET_RADIUS = 50;
-const int TARGET_DISPLAY_TIME = 1000; // milliseconds
+const int TARGET_DISPLAY_TIME = 1800; // milliseconds
 
 // Player parameters
 const int MAX_SCORE = 100;
